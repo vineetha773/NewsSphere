@@ -17,6 +17,7 @@
 
 ## Live Demo
 [View NewsSphere Live](https://vineetha773.github.io/NewsSphere/)
+<img width="1919" height="1005" alt="Image" src="https://github.com/user-attachments/assets/2a7e77d2-1239-44be-a152-aafcee2649e3" />
 
 ---
 
