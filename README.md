@@ -16,7 +16,7 @@
 ---
 
 ## Live Demo
-[View NewsSphere Live](https://yourusername.github.io/newssphere/)
+[View NewsSphere Live](https://vineetha773.github.io/NewsSphere/)
 
 ---
 
@@ -31,4 +31,4 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/newssphere.git
+git clone https://vineetha773.github.io/NewsSphere/
